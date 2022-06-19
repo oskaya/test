@@ -1,3 +1,0 @@
-test
-from remote
-update again on demo.txt
